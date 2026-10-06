@@ -1,3 +1,4 @@
 c/output/
 *.exe
 *.out
+.vscode
