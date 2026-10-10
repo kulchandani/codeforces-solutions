@@ -1,5 +1,7 @@
 c/output/
+templates
 *.exe
 *.out
 .vscode
 contests/2275/output
+contests/2271/output
